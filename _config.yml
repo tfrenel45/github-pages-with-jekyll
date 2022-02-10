@@ -1,13 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Abound Companies Software Development Blog
+author: Frenel Titular
+email: frenel@aboundhub.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Abound Companies is an all-in-one company for Real Estate solutions and our mission is to help our clients to get the best services for their mortgage and real estate needs.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+twitter_username: @freneltitular
+github_username:  @tfrenel45
 show_excerpts: true # set to false to remove excerpts on the homepage
